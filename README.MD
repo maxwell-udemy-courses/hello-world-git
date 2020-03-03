@@ -1,3 +1,6 @@
+# Curso de Git desde Cero
+Este es el repositorio del curso de Git que dicto por Udemy. Puedes encontrarlo desde [aqui](https://www.udemy.com/course/aprende-a-dominar-git-de-cero-a-experto/)
+
 # Version del curso
 Version Actual: v1.2.2
 
